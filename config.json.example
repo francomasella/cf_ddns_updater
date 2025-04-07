@@ -1,0 +1,6 @@
+{
+	"api_key": "yourcloudflareapikey",
+	"type": "A",
+	"zone": "yourdomainname.tld",
+	"domains": [ "subdomain1.yourdomainname.tld", "subdomain2.yourdomain.tld" ]
+}
